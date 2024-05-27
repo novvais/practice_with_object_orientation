@@ -1,0 +1,12 @@
+{
+  "name": "Code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:novvais/practice_with_object_orientation.git",
+  "author": "Eduardo Novais <eduardodepaulanovais10@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
